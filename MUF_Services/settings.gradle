@@ -1,0 +1,2 @@
+rootProject.name='MUF_Services'
+include ':app'

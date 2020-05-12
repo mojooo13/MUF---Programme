@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MUF_Services</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="content_title">Prime Service</string>
+    <string name="conent_text">This a Prime Service text</string>
+</resources>
